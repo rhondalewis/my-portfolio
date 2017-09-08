@@ -6,4 +6,7 @@ This is my portfolio.
 
 Git & GitHub
 SSH
-
+HTML
+CSS
+Font Awesome
+Google Fonts
